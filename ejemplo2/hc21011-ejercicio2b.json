@@ -1,0 +1,45 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": {
+					"_medida": "km",
+					"__text": "545"
+				},
+				"_id": "1",
+				"_nombre": "San Salvador",
+				"_moneda": "USD"
+			},
+			{
+				"cabecera": "La Unión",
+				"habitantes": "224,325",
+				"altura": {
+					"_medida": "km",
+					"__text": "274"
+				},
+				"codigo_iso": "SV-UN",
+				"_id": "2",
+				"_nombre": "La Unión"
+			},
+			{
+				"cabecera": "Ahuachapán",
+				"habitantes": "348 880",
+				"altura": {
+					"_medida": "km",
+					"__text": "1214"
+				},
+				"codigo_iso": "SV-AH",
+				"municipio": "3",
+				"_id": "3",
+				"_nombre": "Ahuachapan"
+			}
+		],
+		"cuestionario": {
+			"pregunta": "¿A partir del ejemplo 2 y ejercicios desarrollados hasta el momento que puede concluir?",
+			"respuesta": "que los atributos de las etiquetas son eso, atributos que puede tener cada etiqueta, a veces\n            puede ser un atributo que solo tendría la etiqueta o un atributo compartido entre 1 o más etiquetas."
+		},
+		"_nombre": "El Salvador"
+	}
+}

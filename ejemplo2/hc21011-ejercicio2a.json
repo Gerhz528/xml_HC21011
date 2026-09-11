@@ -1,0 +1,28 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": {
+					"_medida": "km",
+					"__text": "545"
+				},
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "La Unión",
+				"habitantes": "224,325",
+				"altura": {
+					"_medida": "km",
+					"__text": "274"
+				},
+				"codigo_iso": "SV-UN",
+				"_id": "2",
+				"_nombre": "La Unión"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

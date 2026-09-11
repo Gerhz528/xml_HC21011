@@ -1,0 +1,40 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2026"
+			},
+			{
+				"nombre": "Gerson",
+				"apellido": "Hernández",
+				"direccion": "Santa tecla la libertad",
+				"email": "hc21011@ues.edu.sv",
+				"edad": "24",
+				"pagina_web": "www.andre.com",
+				"_id": "2",
+				"_fechaingreso": "1/1/2021"
+			},
+			{
+				"nombre": "Gerson",
+				"apellido": "Hernández",
+				"direccion": "Santa tecla la libertad",
+				"email": "hc21011@ues.edu.sv",
+				"edad": "24",
+				"pagina_web": "www.andre.com",
+				"dui": "06369106-4",
+				"isss": "-",
+				"afp": "-",
+				"_id": "3",
+				"_fechaingreso": "1/1/2021"
+			}
+		],
+		"cuestionario": {
+			"pregunta": "¿A partir del ejemplo 1 y ejercicios desarrollados hasta el momento que puede concluir?",
+			"respuesta": "XML puede dar mucha libertad para crear nuestras propias etiquetas y atributos,\n        haciendolo muy personalizable. Pero se debe de respetar cierta estructura."
+		}
+	}
+}

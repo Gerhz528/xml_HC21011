@@ -1,0 +1,54 @@
+/* carnet-ejemplo1.css SUCARNET */
+
+fichero {
+    background-color: blue;
+    display: block;
+    padding: 20px;
+}
+
+ficha {
+    background-color: red;
+    display: block;
+    margin: 10px;
+    padding: 15px;
+    border: 2px solid white;
+}
+
+nombre {
+    color: white;
+    display: inline;
+    font-weight: bold;
+}
+
+apellido {
+    color: yellow;
+    display: inline;
+    font-style: italic;
+}
+
+direccion {
+    color: lightgreen;
+    display: block;
+}
+
+cuestionario {
+    background-color: blue;
+    display: block;
+    padding: 20px;
+}
+
+pregunta {
+    background-color: red;
+    display: block;
+    margin: 10px;
+    padding: 15px;
+    border: 2px solid white;
+}
+
+respuesta {
+    background-color: red;
+    display: block;
+    margin: 10px;
+    padding: 15px;
+    border: 2px solid white;
+}

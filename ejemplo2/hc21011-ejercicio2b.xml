@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="estilos.css"?>
+<!-- ejemplo2.xml HC21011-->
+<pais nombre="El Salvador">
+    <departamento id="1" nombre="San Salvador" moneda="USD">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura medida="km"> 545 </altura>
+    </departamento>
+    <departamento id="2" nombre="La Unión">
+        <cabecera>La Unión</cabecera>
+        <habitantes>224,325</habitantes>
+        <altura medida="km">274</altura>
+        <codigo_iso>SV-UN</codigo_iso>
+    </departamento>
+    <departamento id="3" nombre="Ahuachapan">
+        <cabecera>Ahuachapán</cabecera>
+        <habitantes>348 880</habitantes>
+        <altura medida="km">1214</altura>
+        <codigo_iso>SV-AH</codigo_iso>
+        <municipio>3</municipio>
+    </departamento>
+    <cuestionario>
+        <pregunta>¿A partir del ejemplo 2 y ejercicios desarrollados hasta el momento que puede concluir?</pregunta>
+        <respuesta>que los atributos de las etiquetas son eso, atributos que puede tener cada etiqueta, a veces
+            puede ser un atributo que solo tendría la etiqueta o un atributo compartido entre 1 o más etiquetas.
+        </respuesta>
+    </cuestionario>
+</pais>

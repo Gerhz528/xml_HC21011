@@ -1,0 +1,23 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2026"
+			},
+			{
+				"nombre": "Gerson",
+				"apellido": "Hernández",
+				"direccion": "Santa tecla la libertad",
+				"email": "hc21011@ues.edu.sv",
+				"edad": "24",
+				"pagina_web": "www.andre.com",
+				"_id": "2",
+				"_fechaingreso": "1/1/2021"
+			}
+		]
+	}
+}

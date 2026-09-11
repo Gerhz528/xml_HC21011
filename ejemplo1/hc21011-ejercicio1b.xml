@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="a.css"?>
+<!-- ejemplo1.xml  hc21011 -->
+<fichero>
+    <ficha id="1" fechaingreso="1/11/2026">
+        <nombre>Antonio</nombre>
+        <apellido>Barbero</apellido>
+        <direccion>Calle de Los Andes, 45</direccion>
+    </ficha>
+    <ficha id="2" fechaingreso="1/1/2021">
+        <nombre>Gerson </nombre>
+        <apellido>Hernández</apellido>
+        <direccion>Santa tecla la libertad</direccion>
+        <email>hc21011@ues.edu.sv</email>
+        <edad>24</edad>
+        <pagina_web>www.andre.com</pagina_web>
+    </ficha>
+    <ficha id="3" fechaingreso="1/1/2021">
+        <nombre>Gerson </nombre>
+        <apellido>Hernández</apellido>
+        <direccion>Santa tecla la libertad</direccion>
+        <email>hc21011@ues.edu.sv</email>
+        <edad>24</edad>
+        <pagina_web>www.andre.com</pagina_web>
+        <dui>06369106-4</dui>
+        <isss> - </isss>
+        <afp> - </afp>
+    </ficha>
+    <cuestionario>
+        <pregunta>¿A partir del ejemplo 1 y ejercicios desarrollados hasta el momento que puede concluir?</pregunta>
+        <respuesta>R//XML puede dar mucha libertad para crear nuestras propias etiquetas y atributos,
+        haciendolo muy personalizable. Pero se debe de respetar cierta estructura.
+        </respuesta>
+    </cuestionario>
+</fichero>
